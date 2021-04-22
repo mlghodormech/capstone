@@ -2,7 +2,7 @@
 cd %~dp0
 
 :: Install Google Chrome
-msiexec /i GoogleChromeStandaloneEnterprise.msi /QN
+msiexec /i GoogleChromeStandaloneEnterprise64.msi /QN
 
 :: Install GIT
 Git-2.31.1-64-bit.exe /VERYSILENT /NORESTART /SP-

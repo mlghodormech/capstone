@@ -2,4 +2,4 @@
 cd %~dp0
 
 :: Install Google Chrome
-msiexec /i GoogleChromeStandaloneEnterprise.msi
+msiexec /i GoogleChromeStandaloneEnterprise64.msi
