@@ -6,6 +6,6 @@ Email: cal@calgodfrey.com
 
 Twitter: @mlghodormech
 
-LinkedIn: @calsherman
+LinkedIn: @calgodfrey
 
 Github: mlghodormech
