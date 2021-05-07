@@ -3,6 +3,9 @@ This repo will be a home for any files I create during the course of my Senior C
 
 # Contact Info
 Email: cal@calgodfrey.com
+
 Twitter: @mlghodormech
+
 LinkedIn: @calsherman
+
 Github: mlghodormech
